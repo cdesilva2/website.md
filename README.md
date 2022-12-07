@@ -1,4 +1,14 @@
 <DOCTYPE html>
 <html>
-<img src="[pic_trulli.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw27g8lHnePR-yfMypBJGP3K&ust=1666387837462000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMCstMvg7_oCFQAAAAAdAAAAABAD)" alt="Italian Trulli">
+  <body>
+  <h1>De Silva's Ethics Website</h1>
+    <a href = "www.google.com">My Web Site</a>
+<img src="https://w7.pngwing.com/pngs/563/598/png-transparent-calico-cat-%E9%A6%99%E7%AE%B1%E5%BA%A7%E3%82%8A-illustrator-cat-white-face-animals-thumbnail.png" alt="Cat">
+<form>
+  <text>Name: </text> <input>
+  <br>
+  <text>Password: </text> <input type="password">
+  <button>submit</button>
+    </form>
+  </body>
 </html>
