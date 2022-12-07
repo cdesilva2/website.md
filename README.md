@@ -9,6 +9,6 @@
   <br>
   <text>Password: </text> <input type="password">
   <button>submit</button>
-    </form>
+</form>
   </body>
 </html>
